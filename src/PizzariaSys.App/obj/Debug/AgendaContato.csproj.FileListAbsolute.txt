@@ -1,0 +1,9 @@
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.App\obj\Debug\AgendaContato.csprojAssemblyReference.cache
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.App\obj\Debug\AgendaContato.csproj.CoreCompileInputs.cache
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.dll
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.pdb
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.dll
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.pdb
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.App\bin\Debug\PizzariaSys.Dominio.dll
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.App\bin\Debug\PizzariaSys.Dominio.pdb
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.App\obj\Debug\AgendaContato.csproj.CopyComplete

@@ -1,0 +1,4 @@
+
+Prezados!
+
+Ao acessar a página clicar em "Clientes" onde abrirá as opções de CRUD.

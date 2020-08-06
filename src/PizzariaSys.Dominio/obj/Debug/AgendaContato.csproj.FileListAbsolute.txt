@@ -1,0 +1,5 @@
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.Dominio\bin\Debug\PizzariaSys.Dominio.dll
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.Dominio\bin\Debug\PizzariaSys.Dominio.pdb
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.Dominio\obj\Debug\AgendaContato.csproj.CoreCompileInputs.cache
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.dll
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.pdb

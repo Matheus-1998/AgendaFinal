@@ -1,0 +1,14 @@
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll.config
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.dll
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.Dominio.dll
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.Dominio.pdb
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.xml
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\obj\Debug\AgendaContato.AcessoDados.csprojAssemblyReference.cache
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\obj\Debug\AgendaContato.AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\obj\Debug\AgendaContato.AcessoDados.csproj.CopyComplete
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\HP1\Downloads\PizzariaSys-master (1)\PizzariaSys-master\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.pdb
